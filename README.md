@@ -1,15 +1,16 @@
 ![alt text](./banner.png)
 
 
-Hi! My name is Asma and I am a student at the University of Central Florida. 
-I want to walk along the lines of art and technology to keep the human in between. 
+Hi! My name is Asma and I am a student at the University of Central Florida. <br/>
+I want to walk along the lines of art and technology to keep the human in between. <br/>
 
 
 <br/>  
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<h1>My Skill Set</h1>  
+<table><tr>
 
-### Frontend  
+<td valign="top">
+<h3>Frontend</h3>  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -19,11 +20,9 @@ I want to walk along the lines of art and technology to keep the human in betwee
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
 
-
-
-### Backend  
+<h3>Backend</h3>  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -31,11 +30,10 @@ I want to walk along the lines of art and technology to keep the human in betwee
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-
-
-### DevOps  
+<td valign="top">
+<h3>Software<h3>
 <div align="center">  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
@@ -48,10 +46,15 @@ I want to walk along the lines of art and technology to keep the human in betwee
 <br/>  
 
 
-##Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aahmed50&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aahmed50&theme=gruvbox_light_icons=true)
+<h2>Stats</h2> </br>
 
-##Let's Connect!
-<a href="https://github.com/aahmed50" target="_blank"> <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="" height="30" width="40" /> </a>
-<a href="www.linkedin.com/in/aahmed28/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<table><tdr><td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahmed50&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aahmed50&theme=gruvbox_light_icons=true" />
+</td></tr></table>
+
+<br>
+
+<h1>Let's Connect!</h3>
+Portfolio (WIP): aahmed50.github.io/Portfolio/ <br>
+LinkedIn: www.linkedin.com/in/aahmed28/
