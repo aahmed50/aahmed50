@@ -56,5 +56,5 @@ I want to walk along the lines of art and technology to keep the human in betwee
 <br>
 
 <h1>Let's Connect!</h3>
-Portfolio (WIP): aahmed50.github.io/Portfolio/ <br>
+Portfolio (WIP): www.aahmed50.github.io/Portfolio/ <br>
 LinkedIn: www.linkedin.com/in/aahmed28/
