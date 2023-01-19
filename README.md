@@ -1,8 +1,9 @@
-![alt text](./banner.png)
+![banner](https://user-images.githubusercontent.com/79490748/213548142-1eb1bb8e-692a-45a4-8884-e17daadda968.png)
 
 
 Hi! My name is Asma and I am a student at the University of Central Florida. <br/>
-I want to walk along the lines of art and technology to keep the human in between. <br/>
+I like to find the connections between things. <br/> 
+My goal is to bridge the space between technology and art through design. <br/>
 
 
 <br/>  
