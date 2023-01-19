@@ -1,10 +1,12 @@
 ![banner](https://user-images.githubusercontent.com/79490748/213548142-1eb1bb8e-692a-45a4-8884-e17daadda968.png)
 
 
-Hi! My name is Asma and I am a student at the University of Central Florida. <br/>
-I like to find the connections between things. <br/> 
+<h1>Hi! I'm Asma 💻✨ </h1>
+  
+<p>I am a student at the University of Central Florida. <br/>
+I like to find the connections between things. <br/>
 My goal is to bridge the space between technology and art through design. <br/>
-
+</p>
 
 <br/>  
 <h1>My Skill Set</h1>  
@@ -21,8 +23,9 @@ My goal is to bridge the space between technology and art through design. <br/>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top">
-
+</td>
+  
+<td valign="top">
 <h3>Backend</h3>  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -42,7 +45,9 @@ My goal is to bridge the space between technology and art through design. <br/>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
