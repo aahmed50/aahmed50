@@ -3,7 +3,7 @@
 
 <h1>Hi! I'm Asma 💻✨ </h1>
   
-<p>I am a student at the University of Central Florida. <br/>
+<p>I am a student at the Georgia Institute of Technology. <br/>
 I like to find the connections between things. <br/>
 My goal is to bridge the space between technology and art through design. <br/>
 </p>
